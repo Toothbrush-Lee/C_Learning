@@ -3,7 +3,9 @@
 北师大2021-2022春季学期程序设计基础作业（教师：鲍建樟）
 
 Reference Notebook： 谭浩强第三、四、五版，C Primer Plus
+
 Environment：macOS 12.0 + clang(C17)
+
 Open Source License：MIT
 
 Author: LLX
